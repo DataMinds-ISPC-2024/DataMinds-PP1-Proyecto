@@ -15,3 +15,4 @@ Quiroga Fernanda Micaela
 https://trello.com/b/E1Vjo3RL/practica-profesionalizante-i
 # Colab
 
+https://youtu.be/5dSkA8Kj6tw
