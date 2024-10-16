@@ -34,6 +34,5 @@ Objetivos del Equipo
 
 # Trello
 https://trello.com/b/E1Vjo3RL/practica-profesionalizante-i
-# Colab
-https://colab.research.google.com/drive/1WSoorvK0bv9fxRAyAMfYOAG_0mfoKSob?usp=sharing
+
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="250px" style="visibility:visible;max-width:100%;">
